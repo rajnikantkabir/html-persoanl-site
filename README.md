@@ -29,7 +29,7 @@
 
 <body>
   <h1> Rajnikant Yadav </h1>
-  <p><em> < founder and CEO <strong> of schooolbook </strong>.</em></p>
+  <p><em> founder and CEO <strong> of schooolbook </strong>.</em></p>
   <p> i am software engineer and product designer. i like drinking tea </p>
 </body>
 
