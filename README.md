@@ -71,8 +71,7 @@
   <p> i am software engineer and product designer. i like drinking tea </p>
   <hr>
   <h3>books and teachings </h3>
-  
-
+ 
 
 
 </body>
